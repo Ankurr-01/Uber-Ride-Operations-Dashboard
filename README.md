@@ -9,8 +9,6 @@
 
 This project presents a **real-world, end-to-end data analytics workflow** using Uber ride booking data. The goal is to transform raw data into **actionable business insights** through structured data cleaning, SQL-based analysis, and an interactive Power BI dashboard.
 
-The project is tailored to demonstrate **job-ready Data Analyst skills** and is optimized for **recruiters, hiring managers, and GitHub discoverability**.
-
 ---
 
 ## 🎯 Business Objectives
