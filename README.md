@@ -99,7 +99,7 @@ The interactive Power BI dashboard is organized into multiple analytical views, 
 ## 📈 Overall Operations Dashboard
 
 <p align="center">
-  <img src="05_dashboard_visualizations/overall_viz.png" width="900"/>
+  <img src="05_dashboard_visualizations/01_overall_viz.png" width="900"/>
 </p>
 
 Tracks total bookings, booking value, booking status, and ride demand over time.
@@ -109,7 +109,7 @@ Tracks total bookings, booking value, booking status, and ride demand over time.
 ## 🚘 Vehicle Performance Dashboard
 
 <p align="center">
-  <img src="05_dashboard_visualizations/vehicle_type_viz.png" width="900"/>
+  <img src="05_dashboard_visualizations/02_vehicle_type_viz.png" width="900"/>
 </p>
 
 Compares vehicle utilization, ride distance, booking value, and customer ratings.
@@ -119,7 +119,7 @@ Compares vehicle utilization, ride distance, booking value, and customer ratings
 ## 💰 Revenue Dashboard
 
 <p align="center">
-  <img src="05_dashboard_visualizations/revenue_viz.png" width="900"/>
+  <img src="05_dashboard_visualizations/03_revenue_viz.png" width="900"/>
 </p>
 
 Analyzes revenue contribution by payment method and identifies high-value customers.
@@ -129,7 +129,7 @@ Analyzes revenue contribution by payment method and identifies high-value custom
 ## ❌ Cancellation Dashboard
 
 <p align="center">
-  <img src="05_dashboard_visualizations/cancellation_viz.png" width="900"/>
+  <img src="05_dashboard_visualizations/04_cancellations_viz.png" width="900"/>
 </p>
 
 Highlights customer and driver cancellation patterns.
@@ -139,7 +139,7 @@ Highlights customer and driver cancellation patterns.
 ## ⭐ Ratings Dashboard
 
 <p align="center">
-  <img src="05_dashboard_visualizations/ratings_viz.png" width="900"/>
+  <img src="05_dashboard_visualizations/05_ratings_viz.png" width="900"/>
 </p>
 
 Compares customer and driver ratings across vehicle categories.
