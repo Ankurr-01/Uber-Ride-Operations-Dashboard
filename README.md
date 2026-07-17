@@ -28,7 +28,7 @@ An end-to-end ride operations analytics project built using **Excel, SQL, and Po
 # 📁 Project Structure
 
 ```
-Uber-Ride-Operations-Analytics/
+Uber-Ride-Operations-Dashboard/
 │
 ├── uber_booking_dataset.csv         # Raw ride booking dataset
 ├── data_questions                   # Business questions
